@@ -17,4 +17,4 @@
 Добавятся новые технологии, например, JavaScript.
 
 -------------------------------
-[Ссылка на GHPages](https://dmitriysap.github.io/russian-travel/) 
+[Ссылка на GHPages](https://visahuy.github.io/rissisa-travel/) 
