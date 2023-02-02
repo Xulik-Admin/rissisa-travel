@@ -1,0 +1,8 @@
+
+.header__lang-links {
+    display: flex;
+    position: absolute;
+    right: 0;
+    bottom: 9%;
+}
+
