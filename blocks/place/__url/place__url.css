@@ -1,0 +1,9 @@
+.place__url {
+    align-self: end;
+}
+
+@media screen and (max-width: 320px) {
+    .place__url {
+        margin: 0 16px 0;
+    }
+}
